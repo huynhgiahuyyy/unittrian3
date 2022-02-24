@@ -1,0 +1,39 @@
+.form-container {
+    flex: 0 0 45%;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  input,
+  button,
+  textarea {
+    border-radius: 15px 15px 15px 15px;
+    font-size: inherit;
+    font-family: inherit;
+    display: block;
+    
+  }
+  input,
+  textarea {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: none;
+    width: 70%;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  button {
+    padding: 1rem;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    color: white;
+    border-radius: 15px 15px 15px 15px;
+  }
+  button:hover {
+    background-color: rgb(165, 165, 165);
+  }
+  h4 {
+    text-align: center;
+  }
+  
